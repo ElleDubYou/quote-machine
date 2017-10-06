@@ -1,0 +1,41 @@
+body{
+  background-image: url(images/i.jpg);
+  background-repeat:  repeat;
+}
+.container{
+  text-align: center;
+margin-top: 50px;
+ background-image: url(images/light-textures-01.jpg);
+}
+h1{
+  background-color:
+}
+hr{
+  width: 600px;
+  border-bottom: 5px solid brown;
+}
+.quote-box{
+ background-image: url(images/light-textures-01.jpg);
+  text-align: center;
+  margin: 20px;
+  border-radius: 15px;
+}
+
+#quote{
+  font-family: 'Coming Soon', cursive;
+  font-size: 2em;
+}
+
+#author{
+  font-family: 'Great Vibes', cursive;
+  font-size: 3em;
+  padding: 5px;
+  color: brown;
+}
+footer{
+  background-color: brown;
+  padding: 5px ;
+  margin-top: 30px;
+  text-align: right;
+  color: cornsilk;
+}
